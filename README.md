@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Ivo and i love programming.
+
 <!--
 **0x4D414C/0x4D414C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
